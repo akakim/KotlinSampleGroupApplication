@@ -1,0 +1,4 @@
+1. EditText의 값을 왜 안가져오는거지.. NPE에서 자유롭다고 광고해놓고선!!!
+2. Handler의 callback은 어떻게하고
+3. 전역변수같이 쓸수 있는건 있는건가??
+4. fragment?
